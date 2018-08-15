@@ -28,13 +28,13 @@
 ```
 ├── README.md
 ├── data
-│   ├── input
+│   ├── input# 映画レビューデータ
 │   │   mple_sample data.csv
 │   └── output
-├── dic
+├── dic# 日本語評価極性辞書
 │   ├── pn.csv.m3.120408.trim# 日本語評価極性辞書（名詞編）ver.1.0（2008年12月版)
 │   └── wago.121808.pn# 日本語評価極性辞書（用言編）ver.1.0（2008年12月版）
-├── main.py
-└── run_cabocha.py
+├── main.py# main関数
+└── run_cabocha.py# 形態素解析処理
 
 ```
